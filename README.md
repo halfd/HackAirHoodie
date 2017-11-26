@@ -1,3 +1,3 @@
 # HackAirHoodie
 
-Arduino code to read input from strech sensor and control LEDs.
+Arduino code to read input from stretch sensor and control LEDs.
